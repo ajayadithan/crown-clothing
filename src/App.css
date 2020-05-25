@@ -1,3 +1,11 @@
 body {
     font-family: 'Open Sans Condensed';
+
+    /* max-width: 1200px; */
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
 }
